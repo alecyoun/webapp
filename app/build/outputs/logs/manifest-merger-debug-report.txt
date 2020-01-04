@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\f87687007046047ff4e3023b8bb68791\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ffcdc4aa9f39d5a7a60af866ed54ee0f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\6432511d52148b724b24e701e6715e59\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0e5396521386070ea94be56e2f764337\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\07b0fa18ec8d32b733a638db7d721ff3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\38668e75625dea7e67eccf29714fc681\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\f0e8044fa2e1f848baa53e8cc9a61fc5\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:7:22-64
+uses-sdk
+ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:9:5-10:41
+INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:9:5-10:41
+INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:9:5-10:41
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\f87687007046047ff4e3023b8bb68791\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\f87687007046047ff4e3023b8bb68791\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ffcdc4aa9f39d5a7a60af866ed54ee0f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ffcdc4aa9f39d5a7a60af866ed54ee0f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\6432511d52148b724b24e701e6715e59\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\6432511d52148b724b24e701e6715e59\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0e5396521386070ea94be56e2f764337\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0e5396521386070ea94be56e2f764337\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\07b0fa18ec8d32b733a638db7d721ff3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\07b0fa18ec8d32b733a638db7d721ff3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\38668e75625dea7e67eccf29714fc681\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\38668e75625dea7e67eccf29714fc681\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\f0e8044fa2e1f848baa53e8cc9a61fc5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\f0e8044fa2e1f848baa53e8cc9a61fc5\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:9:5-10:41
+INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:9:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ffcdc4aa9f39d5a7a60af866ed54ee0f\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:9:5-10:41
+		INJECTED from C:\adt\WebApp\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:12:5-27:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\f87687007046047ff4e3023b8bb68791\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\f87687007046047ff4e3023b8bb68791\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ffcdc4aa9f39d5a7a60af866ed54ee0f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ffcdc4aa9f39d5a7a60af866ed54ee0f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\6432511d52148b724b24e701e6715e59\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\6432511d52148b724b24e701e6715e59\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0e5396521386070ea94be56e2f764337\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0e5396521386070ea94be56e2f764337\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\07b0fa18ec8d32b733a638db7d721ff3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\07b0fa18ec8d32b733a638db7d721ff3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\38668e75625dea7e67eccf29714fc681\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\38668e75625dea7e67eccf29714fc681\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\f0e8044fa2e1f848baa53e8cc9a61fc5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\alecy\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\f0e8044fa2e1f848baa53e8cc9a61fc5\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.hitouch.wikibook.BrowserActivity
+ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:screenOrientation
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:19:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\adt\WebApp\app\src\main\AndroidManifest.xml:24:27-74
